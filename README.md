@@ -1,17 +1,17 @@
-<a href="https://github.com/FeQuaresma" target="_blank">
+<a href="https://github.com/Absolutoo" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
-<a href="https://www.instagram.com/quaresma_xx/" target="_blank">
+<a href="https://www.instagram.com/rvabsolutoo/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a> 
-<a href="https://www.linkedin.com/in/fequaresma/" target="_blank">
+<a href="https://www.linkedin.com/in/vinicius-alves-920522183/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
 <br />
 <br />
 
-Olá, me chamo **Felipe Quaresma**, sou de São Paulo-SP, Brasil, estou me capacitando para ser um **Desenvolvedor Front-End** 💼 🚀. 
+Olá, me chamo **Vinicius Alves**, sou de São Paulo-SP, Brasil, estou me capacitando para ser um **Desenvolvedor Front-End** 💼 🚀. 
 
 **Meus interesses pessoais:**
 
