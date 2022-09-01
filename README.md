@@ -42,11 +42,11 @@ Olá, me chamo **Vinicius Alves**, sou de São Paulo-SP, Brasil, estou me capaci
 
 
  <div>
-  <a href="https://github.com/FeQuaresma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeQuaresma&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeQuaresma&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Absolutoo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Absolutoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Absolutoo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FeQuaresma" alt="FeQuaresma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Absolutoo" alt="Absolutoo" /> </p>
 
 ⭐️ Baseado em rafMewtwo
