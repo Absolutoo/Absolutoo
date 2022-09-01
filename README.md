@@ -22,7 +22,7 @@ Olá, me chamo **Vinicius Alves**, sou de São Paulo-SP, Brasil, estou me capaci
 - 🤔 Meus hobbies são tecnologia e design, apesar de estar focado em front-end costumo estar sempre aprendendo novas tecnologias;
 - 💼 Estou perseguindo conhecimento para evoluir tanto em **Hardskills** quanto **Softskills**;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para felipequada@gmail.com para me encontrar;
+- 📫 Por favor, envie um email para vinii.alves@hotmail.com para me encontrar;
 - 🎓 Repositorios que mais me orgulho :
   - <a href="https://github.com/FeQuaresma/rapazicord" target="_blank">Replica de chat</a>;
 
@@ -49,4 +49,4 @@ Olá, me chamo **Vinicius Alves**, sou de São Paulo-SP, Brasil, estou me capaci
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Absolutoo" alt="Absolutoo" /> </p>
 
-⭐️ Baseado em rafMewtwo
+⭐️ Baseado em FeQuaresma
